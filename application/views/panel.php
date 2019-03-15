@@ -150,7 +150,7 @@
 			<!-- ============================================================== -->
 
 
-			<div class="row gestion" id="gestionUsuario" style="display: block">
+			<div class="row gestion" id="gestionUsuario" style="display: none">
 				<div class="col-md-12 col-lg-12 col-sm-12">
 					<div class="white-box">
 						<h3 class="box-title">Gestion Usuario</h3>
